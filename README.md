@@ -1,104 +1,198 @@
-👋 ¡Hola! Soy NER JOSIAS
-💻 Desarrollador de Software | 🔐 Ciberseguridad | 📡 IoT
+# NsSec \| Cybersecurity · Software Development · Systems
 
-¡Bienvenido a mi perfil de GitHub! 🚀
+> **Aprender, explorar, hackear e innovar. Siempre un paso adelante.**\
+> Desarrollo herramientas, investigo sistemas y construyo soluciones
+> tecnológicas con una mentalidad analítica, creativa y orientada a la
+> seguridad.
 
-Soy un apasionado del desarrollo de software, la ciberseguridad y el Internet de las cosas (IoT). Me interesa crear soluciones tecnológicas que combinen programación, conectividad y seguridad, mientras continúo aprendiendo y desarrollando nuevos proyectos.
+```{=html}
+<p align="center">
+```
+`<strong>`{=html}HACK · EXPLOIT · INNOVATE`</strong>`{=html}
+```{=html}
+</p>
+```
 
-Actualmente estoy trabajando en proyectos relacionados con redes, seguridad informática y dispositivos electrónicos con Arduino y ESP32.
+------------------------------------------------------------------------
 
-🔭 Actualmente trabajando en: proyectos de redes, ciberseguridad e IoT.
-🌱 Aprendiendo sobre: seguridad de redes, sistemas conectados y programación de dispositivos.
-🔐 Intereses: ciberseguridad, protección de sistemas y análisis de redes.
-📡 IoT: Arduino, ESP32 y sistemas electrónicos conectados.
-💻 Desarrollo: aplicaciones web, móviles y backend.
-🎯 Objetivo: desarrollar soluciones tecnológicas funcionales, seguras e innovadoras.
-📫 Contacto: neri_1322134035@uptecamac.edu.mx
-🛠️ Tecnologías y herramientas
-🌐 Desarrollo web
+## Sobre mí
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,php" alt="HTML, CSS, JavaScript, React y PHP" /> </p>
+Soy desarrollador de software con interés y experiencia práctica en
+desarrollo web, programación, administración de sistemas,
+infraestructura, automatización y ciberseguridad. Me gusta comprender
+cómo funcionan las tecnologías desde sus fundamentos, analizar problemas
+complejos y crear soluciones propias.
 
-⚙️ Lenguajes de programación y backend
+Mi enfoque combina desarrollo de aplicaciones, scripting, análisis
+técnico, pruebas de seguridad y despliegue de servicios en entornos
+Linux y Windows. Exploro técnicas de investigación y explotación en
+laboratorios y sistemas donde cuento con autorización.
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=cs,dotnet,go,python" alt="C#, .NET, Go y Python" /> </p>
+## Áreas de conocimiento
 
-📱 Desarrollo móvil
+### Ciberseguridad y análisis
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=android,kotlin,flutter" alt="Android, Kotlin y Flutter" /> </p>
+-   Fundamentos de ciberseguridad y seguridad informática.
+-   Ethical Hacking y pruebas de penetración autorizadas.
+-   Reconocimiento técnico y OSINT.
+-   Análisis de vulnerabilidades y evaluación de riesgos.
+-   Seguridad de redes, servicios y aplicaciones web.
+-   Análisis estático y dinámico de archivos y software.
+-   Análisis de malware y comportamiento en entornos controlados.
+-   Ingeniería inversa y análisis de binarios.
+-   Análisis de amenazas, indicadores y mecanismos de persistencia.
+-   Técnicas de mitigación, detección y respuesta.
+-   Forense digital y revisión de evidencias técnicas.
+-   Investigación de protocolos, servicios y superficies de ataque.
 
-🗄️ Bases de datos
+### Desarrollo de software y programación
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL y PostgreSQL" /> </p>
+-   **Python:** scripting, automatización, utilidades y desarrollo de
+    herramientas.
+-   **C# / .NET / .NET CLR:** aplicaciones, lógica de software e
+    integración con el ecosistema .NET.
+-   **ASP.NET y Flask:** desarrollo de aplicaciones y servicios web.
+-   **C / C++:** programación y fundamentos de bajo nivel.
+-   **Java:** desarrollo de aplicaciones y lógica multiplataforma.
+-   **JavaScript / TypeScript:** desarrollo web e interacción con APIs.
+-   **PHP:** desarrollo del lado del servidor.
+-   **SQL:** consultas, gestión y trabajo con bases de datos.
+-   **Bash:** scripting y automatización en Linux.
+-   **PowerShell:** administración, diagnóstico y automatización en
+    Windows.
+-   **Batch / CMD:** scripts y tareas en Windows.
+-   **JSON, HTTP y APIs REST:** intercambio e integración de servicios.
+-   **WebSockets:** comunicación bidireccional y aplicaciones en tiempo
+    real.
+-   **Base64:** codificación y decodificación de datos; comprensión de
+    sus usos y limitaciones.
+-   **Hashing y verificación de integridad:** MD5 y otros algoritmos de
+    resumen, considerando que MD5 no es adecuado para usos
+    criptográficos seguros.
 
-🔌 Hardware e Internet de las cosas (IoT)
+### Malware research e ingeniería inversa
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino y Raspberry Pi" /> </p>
+-   Análisis estático y dinámico en entornos aislados.
+-   Inspección de archivos, cadenas, metadatos y dependencias.
+-   Observación de procesos, archivos, registro y comunicaciones.
+-   Depuración y análisis de comportamiento.
+-   Investigación de técnicas de ofuscación y codificación.
+-   Estudio de mecanismos de detección y contramedidas.
+-   Documentación de hallazgos y creación de indicadores técnicos.
 
-🔧 Arduino y ESP32: desarrollo y experimentación con microcontroladores.
-📡 IoT: exploración de la comunicación entre dispositivos y sistemas.
-🔒 Seguridad IoT: interés en la protección de dispositivos conectados.
+### Infraestructura, redes y sistemas
 
-Nota: ESP32 forma parte de mis áreas de trabajo; las herramientas y funcionalidades concretas se documentarán conforme avance cada proyecto.
+-   Linux y distribuciones orientadas a administración y seguridad.
+-   Windows, Windows Server y administración de entornos Windows.
+-   WSL (Windows Subsystem for Linux).
+-   VPS, servidores y despliegue de servicios.
+-   Configuración y administración básica de servicios de red.
+-   Redes privadas, proxies y fundamentos de enrutamiento.
+-   Tor y Onion Routing: arquitectura, privacidad y configuración de
+    servicios autorizados.
+-   Hostinger y servicios de alojamiento web.
+-   Docker y entornos contenerizados.
+-   Diagnóstico de conectividad, puertos, servicios y resolución de
+    incidencias (*troubleshooting*).
 
-🔐 Ciberseguridad y redes
-🌐 Redes y protocolos de comunicación.
-🛡️ Fundamentos de seguridad informática.
-🔎 Exploración de herramientas de diagnóstico y monitoreo de redes.
-🔒 Buenas prácticas para proteger sistemas y dispositivos conectados.
-🧪 Aprendizaje práctico en entornos autorizados y controlados.
-🔧 Herramientas de desarrollo
+### Aplicaciones, APIs y comunicaciones
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" alt="Git, GitHub, Visual Studio Code, Visual Studio y Linux" /> </p>
+-   Diseño e integración de APIs y servicios HTTP.
+-   WebSockets para comunicación en tiempo real.
+-   Intercambio de datos mediante JSON.
+-   Automatización de tareas y conexión entre componentes.
+-   Desarrollo de paneles de administración y monitoreo.
+-   Arquitecturas cliente-servidor.
+-   Investigación de arquitecturas C2 en contextos de laboratorio,
+    simulación y defensa.
 
-🚀 Mis proyectos
-🔐 1. Redes y ciberseguridad
+### Automatización y herramientas
 
-Estado: 🟡 En desarrollo
+-   Desarrollo de scripts en Python, Bash, PowerShell y Batch.
+-   Automatización de tareas repetitivas.
+-   Creación de utilidades personalizadas.
+-   Procesamiento, transformación y codificación de datos.
+-   Diagnóstico y solución de problemas técnicos.
+-   Integración de herramientas y servicios.
+-   Pruebas controladas, documentación y mejora continua.
 
-Proyecto enfocado en el aprendizaje de redes informáticas y fundamentos de ciberseguridad.
+## Tecnologías y herramientas
 
-Objetivos:
+  -----------------------------------------------------------------------
+  Categoría                           Tecnologías
+  ----------------------------------- -----------------------------------
+  Lenguajes                           Python, C, C++, C#, Java,
+                                      JavaScript, TypeScript, PHP, SQL
 
-Comprender los conceptos fundamentales de redes y protocolos.
-Explorar técnicas de diagnóstico y monitoreo de redes.
-Aprender buenas prácticas para identificar y reducir riesgos de seguridad.
-Documentar conocimientos, prácticas y avances.
+  Plataformas                         .NET, .NET CLR, ASP.NET, Flask
 
-Área: Network Security · Networking · Cybersecurity
+  Web y comunicación                  HTML, CSS, HTTP, REST APIs, JSON,
+                                      WebSockets
 
-📡 2. IoT con Arduino y ESP32
+  Scripting                           Bash, PowerShell, Batch, CMD
 
-Estado: 🟡 En desarrollo
+  Sistemas                            Linux, Windows, Windows Server,
+                                      WSL, Android
 
-Proyecto enfocado en la exploración de microcontroladores y el Internet de las cosas, combinando programación y dispositivos electrónicos.
+  Infraestructura                     VPS, Docker, Hostinger, servidores
 
-Objetivos:
+  Redes y privacidad                  TCP/IP, proxies, Tor, Onion
+                                      Routing, VPN
 
-Aprender sobre la programación de Arduino y ESP32.
-Explorar la interacción entre hardware y software.
-Investigar la conectividad y comunicación entre dispositivos.
-Documentar experimentos y avances técnicos.
-Considerar buenas prácticas de seguridad para dispositivos conectados.
+  Seguridad                           Kali Linux, Metasploit, Nmap,
+                                      Wireshark, Burp Suite
 
-Área: Arduino · ESP32 · Embedded Systems · Internet of Things
+  Análisis                            Ingeniería inversa, análisis
+                                      estático y dinámico,
+                                      troubleshooting
+  -----------------------------------------------------------------------
 
-📊 Estadísticas de GitHub
+> Las herramientas se utilizan según el objetivo del proyecto y dentro
+> de entornos propios, laboratorios o actividades expresamente
+> autorizadas.
 
-<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=NER-JOSIAS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NER-JOSIAS&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" /> </p>
+## Forma de trabajar
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=NER-JOSIAS&theme=tokyonight&hide_border=true" alt="Actividad de contribuciones en GitHub" /> </p>
+-   **Pensamiento analítico:** descomponer problemas y estudiar sus
+    causas.
+-   **Creatividad técnica:** explorar enfoques originales y desarrollar
+    herramientas propias.
+-   **Aprendizaje continuo:** investigar tecnologías, protocolos y
+    técnicas nuevas.
+-   **Resolución de problemas:** diagnosticar, probar, documentar y
+    mejorar.
+-   **Mentalidad de seguridad:** considerar riesgos, controles y
+    mitigaciones desde el diseño.
+-   **Experimentación responsable:** validar hipótesis en laboratorios y
+    entornos autorizados.
 
-🎯 Mis objetivos
-📚 Seguir aprendiendo sobre desarrollo de software y nuevas tecnologías.
-🔐 Profundizar en ciberseguridad y protección de redes.
-📡 Desarrollar proyectos prácticos con Arduino y ESP32.
-🔗 Explorar la integración entre software, hardware y conectividad.
-🤝 Colaborar en proyectos tecnológicos y compartir conocimientos.
-🤝 Conectemos
+## En qué estoy trabajando / qué me interesa construir
 
-<p align="left"> <a href="mailto:neri1322134035@uptecamac.edu.mx"> <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico" /> </a> <a href="https://github.com/NER-JOSIAS"> <img src="https://img.shields.io/badge/GitHub-Mi_perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub" /> </a> </p>
+-   Herramientas propias para administración, diagnóstico y
+    automatización.
+-   Aplicaciones web y paneles de monitoreo.
+-   Servicios y APIs con comunicación en tiempo real.
+-   Laboratorios para análisis de malware e ingeniería inversa.
+-   Automatización multiplataforma para Linux y Windows.
+-   Investigación de redes, privacidad y servicios Onion.
+-   Herramientas de seguridad defensiva, detección y análisis.
 
-<p align="center"> <b>🔐 Secure · 💻 Develop · 📡 Connect · 🚀 Innovate</b> </p>
+## Principios de seguridad
 
-<p align="center"> Gracias por visitar mi perfil. ¡Seguimos aprendiendo y construyendo! ⭐ </p>
+La investigación de vulnerabilidades, el análisis de malware y las
+pruebas de explotación deben realizarse de forma ética y controlada.
+Trabajo con sistemas propios, laboratorios o infraestructura para la que
+exista autorización. La prioridad es comprender, documentar, proteger y
+mejorar la seguridad.
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+`<strong>`{=html}NsSec`</strong>`{=html}`<br>`{=html} Cybersecurity ·
+Software Development · Systems · Research`<br>`{=html} `<em>`{=html}HACK
+· EXPLOIT · INNOVATE`</em>`{=html}
+```{=html}
+</p>
+```
